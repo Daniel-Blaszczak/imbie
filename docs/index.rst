@@ -14,9 +14,12 @@ Information on how to install the processor can be found in the :doc:`/install`.
 Details of the configuration file format and how to create an IMBIE configuration file
 can be found under :doc:`/configuration`
 
+Error Codes :doc:`/error`
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
    index
    install
    configuration

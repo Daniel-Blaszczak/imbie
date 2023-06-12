@@ -1,4 +1,5 @@
 ERROR CODES
+===========
 
 When the IMBIE Processor encounters an error, details of the problem will be printed to the terminal window. Additionally, the processor will return a numeric error code. The definitions of these codes are provided here:
 
