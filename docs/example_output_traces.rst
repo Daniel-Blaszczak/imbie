@@ -1,5 +1,6 @@
 EXAMPLE OUTPUT TRACES
 =====================
+::
 
     This annex contains the CLI output traces produced by running the processor with the configuration provided in Annex B.::
     IMBIE processor v02.1
