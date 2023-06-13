@@ -26,8 +26,9 @@ Error Codes :doc:`/error`
    execution
    error
    example_config
+   downloads
    
-   
+
 Indices and tables
 ==================
 
