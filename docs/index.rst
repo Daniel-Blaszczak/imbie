@@ -27,6 +27,7 @@ can be found under :doc:`/configuration`
    error
    example_config
    downloads
+   api
    
 
 Indices and tables
