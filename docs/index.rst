@@ -26,11 +26,8 @@ Error Codes :doc:`/error`
    execution
    error
    example_config
-   example_output_traces
-   example_output_plots
-
-
-
+   
+   
 Indices and tables
 ==================
 
