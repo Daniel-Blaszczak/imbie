@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "IMBIE"
-copyright = "2022, isardSAT / University of Leeds"
+copyright = "2023, isardSAT / University of Leeds"
 author = "isardSAT / University of Leeds"
 
 
@@ -43,7 +43,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "alabaster"
+# html_theme = "alabaster"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
