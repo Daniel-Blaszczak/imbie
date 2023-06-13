@@ -1,7 +1,7 @@
 Executing the processor
 =======================
 Once the IMBIE processor has been installed as per the instructions in Section 3, it can be invoked using the command ‘imbie’. This will execute the processor in the current directory.
-The general interface to the processor is in the form:
+The general interface to the processor is in the form: ::
 
     imbie [configuration file]
 
