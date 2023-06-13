@@ -20,7 +20,7 @@ Error Codes :doc:`/error`
    :maxdepth: 2
    :caption: Contents:
 
-   index
+   
    install
    configuration
    execution

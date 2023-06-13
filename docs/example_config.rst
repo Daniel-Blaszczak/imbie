@@ -1,4 +1,4 @@
-EXAMPLE CONFIGURATION
+Example Configuration
 =====================
 
 Below is an example copy of a configuration file that can be used by the IMBIE processor.::

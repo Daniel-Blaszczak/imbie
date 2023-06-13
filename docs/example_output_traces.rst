@@ -1,4 +1,4 @@
-EXAMPLE OUTPUT TRACES
+Example Output Traces
 =====================
 ::
 
